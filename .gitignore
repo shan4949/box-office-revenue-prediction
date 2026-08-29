@@ -1,0 +1,8 @@
+Data1/
+**/output/*.parquet
+.venv/
+.DS_Store
+.claude/
+__pycache__/
+*.pyc
+step9_validation/skills-lock.json
