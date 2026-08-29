@@ -1,0 +1,8 @@
+{
+  "lr_r2": 0.5795,
+  "lr_pinball": 0.594,
+  "genre_r2": 0.1177,
+  "genre_pinball": 0.8716,
+  "test_year": 2016,
+  "n_test": 235
+}
